@@ -1,6 +1,6 @@
-# Afrikas dyr – Sigrids dyrequiz
+# Verdens dyr – Sigrids dyrequiz
 
-Interaktiv norsk læringsapp for barn med 16 afrikanske dyr, dyreplakat, norsk tale og en morsom bildequiz.
+Interaktiv norsk læringsapp for barn med 32 norske og afrikanske dyr, dyreplakat, norsk tale og en morsom bildequiz.
 
 ## Funksjoner
 
